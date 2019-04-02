@@ -6,3 +6,4 @@ Git tracks changes of files.
 Git a new branch is quick.
 Creating a new branch is quick AND simple.
 Create a new branch use 'git branch dev,git checkout dev'.
+bug
